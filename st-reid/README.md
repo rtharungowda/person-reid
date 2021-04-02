@@ -1,11 +1,6 @@
 Link to paper https://arxiv.org/abs/1812.03282.
 Link to dataset https://www.kaggle.com/pengcw1/market-1501/data
 
-## Pre-requisites
-+ PyTorch >= 0.3
-+ Python >= 3.6
-+ Numpy
-
 Please change the path to datasets where ever required.
 
 ## Market1501
